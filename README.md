@@ -1,1 +1,2 @@
-# pertemuan-12.2
+## pertemuan-12.2
+# membuat reposi tori 
